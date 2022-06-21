@@ -47,11 +47,6 @@ public class Calculator {
 		
 		}
 		
-		
-		
-		
-		
-		
 	}
 
 	public static double add(double a, double b) {
@@ -59,5 +54,9 @@ public class Calculator {
 		double sum = a+b;
 		return 0.0;
 	}
+
+    System.out.println("Program is completed");
+
+
 
 }
